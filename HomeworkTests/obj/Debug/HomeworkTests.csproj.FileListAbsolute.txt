@@ -1,0 +1,7 @@
+F:\上課資訊\Homework\Homework\HomeworkTests\bin\Debug\HomeworkTests.dll
+F:\上課資訊\Homework\Homework\HomeworkTests\bin\Debug\HomeworkTests.pdb
+F:\上課資訊\Homework\Homework\HomeworkTests\bin\Debug\Homework.dll
+F:\上課資訊\Homework\Homework\HomeworkTests\bin\Debug\Homework.pdb
+F:\上課資訊\Homework\Homework\HomeworkTests\obj\Debug\HomeworkTests.csprojResolveAssemblyReference.cache
+F:\上課資訊\Homework\Homework\HomeworkTests\obj\Debug\HomeworkTests.dll
+F:\上課資訊\Homework\Homework\HomeworkTests\obj\Debug\HomeworkTests.pdb

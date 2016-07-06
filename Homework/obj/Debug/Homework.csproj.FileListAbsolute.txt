@@ -1,0 +1,5 @@
+F:\上課資訊\Homework\Homework\Homework\bin\Debug\Homework.dll.config
+F:\上課資訊\Homework\Homework\Homework\bin\Debug\Homework.dll
+F:\上課資訊\Homework\Homework\Homework\bin\Debug\Homework.pdb
+F:\上課資訊\Homework\Homework\Homework\obj\Debug\Homework.dll
+F:\上課資訊\Homework\Homework\Homework\obj\Debug\Homework.pdb
